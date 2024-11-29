@@ -6,6 +6,8 @@ public class App {
     
     public static void main(String[] args) {
     
+    // Singleton obj = new Singleton(); // Das geht nicht mehr!  
+        
     /* Klasische Instanziierung    
     Singleton singleton1 = new Singleton();    
     Helper.output(singleton1);
